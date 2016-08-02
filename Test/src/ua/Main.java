@@ -11,7 +11,12 @@ public class Main {
 			System.out.println();
 			System.out.println();
 		}
-
+		String n = "Vasyl";
+		int i = 123123;
+		
+		System.out.println("Hello");
+		System.out.println("GitHub");
+		
 	}
 
 }
